@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TITpe21\ForLoops\multiplicationtable\bin\Debug\netcoreapp3.1\multiplicationtable.exe
+C:\Users\opilane\source\repos\TITpe21\ForLoops\multiplicationtable\bin\Debug\netcoreapp3.1\multiplicationtable.deps.json
+C:\Users\opilane\source\repos\TITpe21\ForLoops\multiplicationtable\bin\Debug\netcoreapp3.1\multiplicationtable.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\ForLoops\multiplicationtable\bin\Debug\netcoreapp3.1\multiplicationtable.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\ForLoops\multiplicationtable\bin\Debug\netcoreapp3.1\multiplicationtable.dll
+C:\Users\opilane\source\repos\TITpe21\ForLoops\multiplicationtable\bin\Debug\netcoreapp3.1\multiplicationtable.pdb
+C:\Users\opilane\source\repos\TITpe21\ForLoops\multiplicationtable\obj\Debug\netcoreapp3.1\multiplicationtable.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TITpe21\ForLoops\multiplicationtable\obj\Debug\netcoreapp3.1\multiplicationtable.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\ForLoops\multiplicationtable\obj\Debug\netcoreapp3.1\multiplicationtable.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\ForLoops\multiplicationtable\obj\Debug\netcoreapp3.1\multiplicationtable.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\ForLoops\multiplicationtable\obj\Debug\netcoreapp3.1\multiplicationtable.dll
+C:\Users\opilane\source\repos\TITpe21\ForLoops\multiplicationtable\obj\Debug\netcoreapp3.1\multiplicationtable.pdb
+C:\Users\opilane\source\repos\TITpe21\ForLoops\multiplicationtable\obj\Debug\netcoreapp3.1\multiplicationtable.genruntimeconfig.cache

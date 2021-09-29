@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TITpe21\georg - martin traksnumber guesser\georg - martin traksnumber guesser\obj\Debug\netcoreapp3.1\georg - martin traksnumber guesser.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TITpe21\georg - martin traksnumber guesser\georg - martin traksnumber guesser\obj\Debug\netcoreapp3.1\georg - martin traksnumber guesser.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\georg - martin traksnumber guesser\georg - martin traksnumber guesser\obj\Debug\netcoreapp3.1\georg - martin traksnumber guesser.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\georg - martin traksnumber guesser\georg - martin traksnumber guesser\obj\Debug\netcoreapp3.1\georg - martin traksnumber guesser.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\georg - martin traksnumber guesser\georg - martin traksnumber guesser\bin\Debug\netcoreapp3.1\georg - martin traksnumber guesser.exe
+C:\Users\opilane\source\repos\TITpe21\georg - martin traksnumber guesser\georg - martin traksnumber guesser\bin\Debug\netcoreapp3.1\georg - martin traksnumber guesser.deps.json
+C:\Users\opilane\source\repos\TITpe21\georg - martin traksnumber guesser\georg - martin traksnumber guesser\bin\Debug\netcoreapp3.1\georg - martin traksnumber guesser.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\georg - martin traksnumber guesser\georg - martin traksnumber guesser\bin\Debug\netcoreapp3.1\georg - martin traksnumber guesser.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\georg - martin traksnumber guesser\georg - martin traksnumber guesser\bin\Debug\netcoreapp3.1\georg - martin traksnumber guesser.dll
+C:\Users\opilane\source\repos\TITpe21\georg - martin traksnumber guesser\georg - martin traksnumber guesser\bin\Debug\netcoreapp3.1\georg - martin traksnumber guesser.pdb
+C:\Users\opilane\source\repos\TITpe21\georg - martin traksnumber guesser\georg - martin traksnumber guesser\obj\Debug\netcoreapp3.1\georg - martin traksnumber guesser.dll
+C:\Users\opilane\source\repos\TITpe21\georg - martin traksnumber guesser\georg - martin traksnumber guesser\obj\Debug\netcoreapp3.1\georg - martin traksnumber guesser.pdb
+C:\Users\opilane\source\repos\TITpe21\georg - martin traksnumber guesser\georg - martin traksnumber guesser\obj\Debug\netcoreapp3.1\georg - martin traksnumber guesser.genruntimeconfig.cache

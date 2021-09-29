@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\TITpe21\ForLoops\calculatingsum\bin\Debug\netcoreapp3.1\calculatingsum.exe
+C:\Users\opilane\source\repos\TITpe21\ForLoops\calculatingsum\bin\Debug\netcoreapp3.1\calculatingsum.deps.json
+C:\Users\opilane\source\repos\TITpe21\ForLoops\calculatingsum\bin\Debug\netcoreapp3.1\calculatingsum.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\ForLoops\calculatingsum\bin\Debug\netcoreapp3.1\calculatingsum.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\ForLoops\calculatingsum\bin\Debug\netcoreapp3.1\calculatingsum.dll
+C:\Users\opilane\source\repos\TITpe21\ForLoops\calculatingsum\bin\Debug\netcoreapp3.1\calculatingsum.pdb
+C:\Users\opilane\source\repos\TITpe21\ForLoops\calculatingsum\obj\Debug\netcoreapp3.1\calculatingsum.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\ForLoops\calculatingsum\obj\Debug\netcoreapp3.1\calculatingsum.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\ForLoops\calculatingsum\obj\Debug\netcoreapp3.1\calculatingsum.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\ForLoops\calculatingsum\obj\Debug\netcoreapp3.1\calculatingsum.dll
+C:\Users\opilane\source\repos\TITpe21\ForLoops\calculatingsum\obj\Debug\netcoreapp3.1\calculatingsum.pdb
+C:\Users\opilane\source\repos\TITpe21\ForLoops\calculatingsum\obj\Debug\netcoreapp3.1\calculatingsum.genruntimeconfig.cache
